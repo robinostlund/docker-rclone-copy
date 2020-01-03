@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM alpine:3.11
 
 MAINTAINER Robin Ostlund <me@robinostlund.name>
 
