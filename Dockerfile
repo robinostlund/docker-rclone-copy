@@ -26,8 +26,6 @@ COPY entrypoint.sh /
 COPY copy.sh /
 COPY copy-abort.sh /
 
-VOLUME ["/config"]
-
 ENTRYPOINT ["/entrypoint.sh"]
 
 CMD [""]
